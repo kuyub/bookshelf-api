@@ -33,3 +33,12 @@ Contoh filter: `GET /books?name=dicoding&reading=1&finished=0`
 1. Pastikan Node.js sudah terpasang.
 2. Clone repository ini.
 3. Pasang dependensi:
+4. jalankan server:
+5. Server berjalan di `http://localhost:9000`.
+
+## Catatan
+Data buku disimpan di memori (array), sehingga akan hilang saat server dihentikan.
+
+## Pembuat
+Ayub Assabiq
+- GitHub: [github.com/kuyub](https://github.com/kuyub)
