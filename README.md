@@ -32,8 +32,8 @@ Contoh filter: `GET /books?name=dicoding&reading=1&finished=0`
 ## Cara Menjalankan
 1. Pastikan Node.js sudah terpasang.
 2. Clone repository ini.
-3. Pasang dependensi:
-4. jalankan server:
+3. Pasang dependensi dengan perintah `npm install`.
+4. Jalankan server dengan perintah `npm start`.
 5. Server berjalan di `http://localhost:9000`.
 
 ## Catatan
